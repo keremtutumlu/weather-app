@@ -1,0 +1,29 @@
+.card {
+    margin-top: 15rem;
+    max-height: 30rem;
+    background-color: rgb(139, 139, 139);
+    width: 35rem;
+}
+
+.card-header {
+    display: flex;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
+
+.back-arrow {
+    color:black;
+    position: absolute;
+    margin-right: 32rem;
+}
+
+.list-group-item{
+    display: flex;
+    height: 7rem;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    background-color:rgb(168, 168, 168);
+}

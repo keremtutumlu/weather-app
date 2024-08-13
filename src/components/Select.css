@@ -1,0 +1,20 @@
+.input-area{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vmax;
+    height: auto;
+    margin: 15rem 0 0 0;
+  }
+  
+  .input-label{
+    color: rgb(0, 0, 0);
+    font-size: 1.25em;
+    margin: 0 0 .3rem 0;
+  }
+  
+  #button {
+    position: absolute;
+    right: 36rem;
+    top: 37.29%;
+  }
